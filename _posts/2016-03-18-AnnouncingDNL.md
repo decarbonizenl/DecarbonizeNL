@@ -17,7 +17,8 @@ Attendees will participate in facilitated discussions on these subjects. At the 
 Registration for DNL will open in May via the website: [decarbonizeNL.ca](http://decarbonizeNL.ca). Early registration will be offered at a discount. Information, including a list of the organizing committee, can be found on the event website.
 
 Conference chairs:
-Brett Favaro, Ph.D
-Delia Warren, M.BA
+
+Brett Favaro, Ph.D, 
+Delia Warren, M.BA, 
 Nick Mercer, Ph.D Candidate, MA, BA
 
