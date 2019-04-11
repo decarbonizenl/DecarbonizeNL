@@ -8,12 +8,9 @@ We thank all the sponsors who have made this event possible. Decarbonize NL is o
 
 # Gold sponsors
 
+![MUN Logo](/images/MUN_Logo_Pantone.jpg)
 [Memorial University Conference Fund](https://www.mun.ca/research/funding/conference/index.php)
-
-# Silver sponsors
-
-# Bronze sponsors
 
 ## Sponsoring Decarbonize NL
 
-Our conference prospect
+Our conference prospectus, which includes sponsor guide, is available here.
