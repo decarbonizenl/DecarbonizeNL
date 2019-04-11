@@ -14,7 +14,7 @@ At DNL, expert panels will address decarbonization across all sectors of Newfoun
 
 Attendees will participate in facilitated discussions on these subjects. At the end of the conference we will share lessons learned. A policy report will be produced and freely shared that will summarize the findings from the event.
 
-Registration for DNL will open in May via the website: [decarbonizeNL.ca]. Early registration will be offered at a discount. Information, including a list of the organizing committee, can be found on the event website.
+Registration for DNL will open in May via the website: [decarbonizeNL.ca](http://decarbonizeNL.ca). Early registration will be offered at a discount. Information, including a list of the organizing committee, can be found on the event website.
 
 Conference chairs:
 Brett Favaro, Ph.D
