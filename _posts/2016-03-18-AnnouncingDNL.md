@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Announcing: Decarbonize NL
+title: "Announcing: Decarbonize NL"
 author: Conference Chairs
 ---
 
