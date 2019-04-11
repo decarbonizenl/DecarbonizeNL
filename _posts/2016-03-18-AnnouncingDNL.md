@@ -4,9 +4,7 @@ title: "Announcing: Decarbonize NL"
 author: Conference Chairs
 ---
 
-ST. JOHN’S, NL - April 18, 2019
-
-Today we are announcing the **Decarbonize NL** conference, which will be held at the Signal Hill Campus of Memorial University on July 11 and 12, 2019. 
+ST. JOHN’S, NL - April 18, 2019: Today we are announcing the **Decarbonize NL** conference, which will be held at the Signal Hill Campus of Memorial University on July 11 and 12, 2019. 
 
 The main objective of **Decarbonize NL** is to envision ways to transform Newfoundland and Labrador’s economy and society so that we no longer have to depend on carbon-intensive development for our prosperity. We will identify pathways for aligning NL’s future development with the United Nations Intergovernmental Panel on Climate Change (IPCC)’s warning that humanity must reduce energy derived from oil by 37% by 2030. 
 
