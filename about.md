@@ -46,3 +46,21 @@ Nick holds a Bachelor of Arts in Environmental Studies and a Master of Arts in E
 ### Program Committee
 
 DNL is supported and organized by a committee with diverse professional backgrounds. Organizers include:
+
+Dr. Angela Carter (https://uwaterloo.ca/political-science/people-profiles/angela-carter)
+
+Dr. Barbara Neis (https://www.mun.ca/soc/people/faculty-profiles/barbara-neis.php)
+
+Dr. John Sandlos (https://www.mun.ca/history/people/faculty/jsandlos.php)
+
+Brandon Copeland (https://www.theurbaneast.com/people)
+
+Joshua Green (https://www.getmysa.com/about.html#timeline)
+
+Dr. Mark Stoddart (https://www.mun.ca/soc/people/faculty-profiles/mark-c-j-stoddart.php)
+
+Keith Drover (https://www.growlerenergy.ca/our-team/)
+
+Maggie Burton (http://www.stjohns.ca/council-member/CouncilloratLarge1)
+
+Conor Curtis (http://ruralresilience.ca/researchers/mun/students/conor-curtis/)
