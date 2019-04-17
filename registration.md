@@ -4,4 +4,6 @@ title: Registration
 permalink: /registration/
 ---
 
-# We anticipate opening registration in early May. Come back soon!
+# We anticipate opening registration in early May.
+
+[Please enter your contact information into this form, and we will let you know when registration is open!](https://forms.gle/DQEnx9hTdkpJwXse8)
