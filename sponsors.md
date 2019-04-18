@@ -14,6 +14,10 @@ We thank all the sponsors who have made this event possible. Decarbonize NL is o
 
 [Memorial University Conference Fund](https://www.mun.ca/research/funding/conference/index.php)
 
+![Mysa Logo](/images/Mysalogo.png)
+
+[Mysa Smart Thermostats](https://www.getmysa.com/)
+
 ## Sponsoring Decarbonize NL
 
 [Our conference prospectus, which includes sponsor guide, is available here](/images/DNL_Prospectus.pdf)
