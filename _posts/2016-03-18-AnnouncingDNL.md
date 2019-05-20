@@ -17,6 +17,8 @@ Registration for DNL will open in May via the website: [decarbonizeNL.ca](http:/
 Conference chairs:
 
 Brett Favaro, Ph.D, 
+
 Delia Warren, M.BA, 
+
 Nick Mercer, Ph.D Candidate, MA, BA
 
