@@ -20,7 +20,7 @@ Standard: $100. Low-income/travelling: $50.
 
 The low-income/travelling rate is intended to support people attending DNL from across the province. In addition, anyone who self-identifies as low-income can avail of our reduced-cost rate, no questions asked.
 
-## Fieldtrip
+## Field trip
 
 There is an optional post-conference field trip to a wind farm in Fermeuse. The registration fee ($25) can be paid at the time of registration and covers the cost of transportation. The field trip will include a stop at a local restaurant (registration fee does not cover food during the fieldtrip).
 
