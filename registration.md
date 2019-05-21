@@ -26,6 +26,6 @@ The program committee is working on organizing satellite sessions at key points 
 
 ### Want to help make DNL more accessible?
 
-We graciously accept sponsorship: http://decarbonizenl.ca/sponsors/ 
+We graciously accept sponsorship, with benefits outlined in the prospectus: http://decarbonizenl.ca/sponsors/ 
 
-If we can secure sufficient sponsorship, we will reduce registration costs. Our primary goal is to make this an affordable, inclusive event to attend.
+All sponsorship revenue is used directly to fund the event and any post-event expenses associate with communicating the outcomes of Decarbonize NL. Our primary goal is to make this an affordable, inclusive event to attend.
