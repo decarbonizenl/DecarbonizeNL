@@ -4,9 +4,11 @@ title: Registration
 permalink: /registration/
 ---
 
-# Registration is now open!
+# [Registration is now open!](https://mun.ungerboeck.com/prod/emc00/register.aspx?OrgCode=10&EvtID=5290&AppCode=REG&CC=119051503651)
 
 [Please access our registration portal by **clicking here**.](https://mun.ungerboeck.com/prod/emc00/register.aspx?OrgCode=10&EvtID=5290&AppCode=REG&CC=119051503651)
+
+## Participation
 
 Before registering, please review our [*Participation*](/participation/) page for event rules, including the Code of Conduct. Decarbonize NL is a space to discuss **how** to decarbonize, not **whether** to do so.
 
