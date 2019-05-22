@@ -4,9 +4,9 @@ title: Registration
 permalink: /registration/
 ---
 
-# [Registration is now open!](https://mun.ungerboeck.com/prod/emc00/register.aspx?OrgCode=10&EvtID=5290&AppCode=REG&CC=119051503651)
+# [Click here to register!](https://mun.ungerboeck.com/prod/emc00/register.aspx?OrgCode=10&EvtID=5290&AppCode=REG&CC=119051503651)
 
-[Please access our registration portal by **clicking here**.](https://mun.ungerboeck.com/prod/emc00/register.aspx?OrgCode=10&EvtID=5290&AppCode=REG&CC=119051503651)
+[**Clicking this link** will take you to Memorial University's conference registration system.](https://mun.ungerboeck.com/prod/emc00/register.aspx?OrgCode=10&EvtID=5290&AppCode=REG&CC=119051503651)
 
 ## Participation
 
