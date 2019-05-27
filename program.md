@@ -4,7 +4,7 @@ title: Program
 permalink: /program/
 ---
 
-On July 11, 2019, our day will begin with a keynote lecture (speaker to be announced) who will set the scene for the DNL event. 
+On July 11, 2019, our day will begin with a keynote lecture delivered by [**Catherine Abreu, Executive Director of Executive Director of Climate Action Network – Réseau action climat (CAN-Rac) Canada**](/images/DNL - Plenary Speaker.pdf).
 
 Following the plenary talk, we will have concurrent sessions broken down by sector of the economy (specific subjects to be announced). Each session will have a panel with experts from the field. Following panel talks, the entire group, including delegates, will 
 brainstorm ideas for decarbonization in that sector. All members of the audience will be given the opportunity and means to participate in the discussion.
