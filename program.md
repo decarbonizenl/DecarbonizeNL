@@ -15,9 +15,9 @@ The day will end with an optional fieldtrip to a local renewable energy project.
 
 # Session list
 
-We will add to this list as we announce sessions:
+Each session will be listed below, and we will add to this list as panelists are finalized:
 
-- [Fisheries and Agriculture](/images/DNL - Fisheries and Agriculture.pdf)
+- [**Fisheries and Agriculture**](/images/DNL - Fisheries and Agriculture.pdf)
 
 # Deliverables from each session
 
