@@ -13,6 +13,12 @@ On July 12, 2019, we will start the day with more sessions.
 
 The day will end with an optional fieldtrip to a local renewable energy project.
 
+# Session list
+
+We will add to this list as we announce sessions:
+
+- [Fisheries and Agriculture](/images/DNL - Fisheries and Agriculture.pdf)
+
 # Deliverables from each session
 
 We are hoping to emerge from DNL with each of the following from each session:
