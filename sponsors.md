@@ -13,6 +13,7 @@ We thank all the sponsors who have made this event possible. Decarbonize NL is o
 ![MUN Logo](/images/MUN_Logo_Pantone.jpg)
 
 [Memorial University Conference Fund](https://www.mun.ca/research/funding/conference/index.php)
+
 [Memorial University Quick Start Fund for Public Engagement](https://www.mun.ca/publicengagement/funding/quickstartfund.php)
 
 ![Mysa Logo](/images/Mysalogo.png)
