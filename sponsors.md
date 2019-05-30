@@ -24,4 +24,4 @@ We thank all the sponsors who have made this event possible. Decarbonize NL is o
 
 ## Sponsoring Decarbonize NL
 
-[Our conference prospectus, which includes sponsor guide, is available here](/images/DNL_Prospectus.pdf)
+[Our conference prospectus, which includes sponsor guide, **is available (click here)**](/images/DNL_Prospectus.pdf)
