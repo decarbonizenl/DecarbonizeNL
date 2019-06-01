@@ -14,11 +14,11 @@ Before registering, please review our [*Participation*](/participation/) page fo
 
 Registration fees pay for facility rental, catering during the event, and other organizing expenses. We are operating on a strictly break-even basis for the event. Fee schedule is as follows:
 
-## Early bird, from now until June 10, 2018
+## Early bird, from now until June 10, 2019
 
 Standard: $70. Low-income/travelling: $35.
 
-## Regular, from June 11, 2018 until start of event
+## Regular, from June 11, 2019 until start of event
 
 Standard: $100. Low-income/travelling: $50.
 
