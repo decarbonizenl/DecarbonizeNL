@@ -20,8 +20,17 @@ We thank all the sponsors who have made this event possible. Decarbonize NL is o
 
 [Mysa Smart Thermostats](https://www.getmysa.com/)
 
+# Silver sponsors
+
+![WWF Logo](/images/WWF_Master_Panda_logo.jpg)
+
+[World Wildlife Fund Canada](http://www.wwf.ca/)
 
 
 ## Sponsoring Decarbonize NL
 
 [Our conference prospectus, which includes sponsor guide, **is available (click here)**](/images/DNL_Prospectus.pdf)
+
+© 1986 Panda symbol WWF-World Wide Fund For Nature (also known as World Wildlife Fund). 
+
+® “WWF” is a WWF Registered Trademark.
