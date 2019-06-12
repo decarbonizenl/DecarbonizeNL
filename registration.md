@@ -37,3 +37,7 @@ The program committee is working on organizing satellite sessions at key points 
 We graciously accept sponsorship, with benefits outlined in the prospectus: http://decarbonizenl.ca/sponsors/ 
 
 All sponsorship revenue is used directly to fund the event and any post-event expenses associate with communicating the outcomes of Decarbonize NL. Our primary goal is to make this an affordable, inclusive event to attend.
+
+### Media
+
+Journalists affiliated with media organizations who wish to cover Decarbonize NL should email us at decarbonizeNL@gmail.com - a limited number of comped registrations are available.
