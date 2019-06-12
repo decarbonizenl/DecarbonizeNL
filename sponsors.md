@@ -6,7 +6,7 @@ permalink: /sponsors/
 
 We thank all the sponsors who have made this event possible. Decarbonize NL is operating on a break-even basis, so every dollar contributed by these sponsors is put directly to reducing registration costs for delegates.
 
-*Last updated 30 May, 2019*
+*Last updated 12 June, 2019*
 
 # Gold sponsors
 
