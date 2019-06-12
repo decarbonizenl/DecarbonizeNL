@@ -26,7 +26,7 @@ The low-income/travelling rate is intended to support people attending DNL from 
 
 ## Field trip
 
-[There is an **optional post-conference field trip**](/images/Wind farm field trip.pdf) to a wind farm in Fermeuse. The registration fee ($25) can be paid at the time of registration and covers the cost of transportation and a bag lunch. The field trip will include a stop at a local restaurant (registration fee does not cover food during the fieldtrip).
+There is an [**optional post-conference field trip**](/images/Wind farm field trip.pdf) to a wind farm in Fermeuse. The registration fee ($25) can be paid at the time of registration and covers the cost of transportation and a bag lunch. The field trip will include a stop at a local restaurant (registration fee does not cover food during the fieldtrip).
 
 ## Web-based attendance
 
