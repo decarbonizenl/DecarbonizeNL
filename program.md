@@ -31,6 +31,6 @@ We are hoping to emerge from DNL with each of the following from each session:
 
 Following the conclusion of DNL, we will produce a guidebook that synthesizes the policy ideas generated at the event. This book will be made available to all levels of government and the general public.
 
-## Post-conferrence fieldtrip
+## Post-conference fieldtrip
 
 After conclusion of the conference, on the afternoon of July 12th, there will be an optional field trip to the Fermeuse Wind Farm. Travel will be by bus from Signal Hill Campus. The tour of the wind farm will be guided by local expert followed by a meal and workshop at a local restaurant (at attendees expense) before heading back to Signal Hill.
