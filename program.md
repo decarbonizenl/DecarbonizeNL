@@ -18,6 +18,8 @@ The day will end with an optional fieldtrip to a local renewable energy project.
 Each session will be listed below, and we will add to this list as panelists are finalized:
 
 - [**Fisheries and Agriculture**](/images/DNL - Fisheries and Agriculture.pdf)
+- [**Urban transportation**](/images/DNL - Urban Transportation.pdf)
+- [**Off-grid electricity**](/images/DNL - Off-grid electricity.pdf)
 
 # Deliverables from each session
 
