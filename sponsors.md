@@ -26,6 +26,10 @@ We thank all the sponsors who have made this event possible. Decarbonize NL is o
 
 [World Wildlife Fund Canada](http://www.wwf.ca/)
 
+![NEIA Logo](/images/NEIA_logo.PNG)
+
+[Newfoundland and Labrador Environmental Industry Association](http://neia.org/)
+
 ## Transportation partner
 
 [Metrobus](https://www.metrobus.com/) is providing transit passes for July 11 and 12 to all Decarbonize NL delegates. [**Check out their routes here!**](https://www.metrobus.com/html-default/system_map.asp)
