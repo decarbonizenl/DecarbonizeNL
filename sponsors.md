@@ -6,7 +6,7 @@ permalink: /sponsors/
 
 We thank all the sponsors who have made this event possible. Decarbonize NL is operating on a break-even basis, so every dollar contributed by these sponsors is put directly to reducing registration costs for delegates.
 
-*Last updated 21 June, 2019*
+*Last updated 27 June, 2019*
 
 # Gold sponsors
 
@@ -29,6 +29,12 @@ We thank all the sponsors who have made this event possible. Decarbonize NL is o
 ![NEIA Logo](/images/NEIA_logo.PNG)
 
 [Newfoundland and Labrador Environmental Industry Association](http://neia.org/)
+
+# Bronze sponsors
+
+![Nexus Logo](/images/nexus.png)
+
+[Nexus Centre for Humanities and Social Sciences Research](https://www.hss.mun.ca/nexus/)
 
 ## Transportation partner
 
