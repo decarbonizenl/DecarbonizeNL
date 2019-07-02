@@ -21,6 +21,7 @@ Each session will be listed below, and we will add to this list as panelists are
 - [**Urban transportation**](/images/DNL - Urban Transportation.pdf)
 - [**Off-grid electricity**](/images/DNL - Off-grid electricity.pdf)
 - [**Heavy industry**](/images/DNL - Heavy Industry.pdf)
+- [**Urban planning and buildings**](/images/DNL - Urban planning.pdf)
 
 # Deliverables from each session
 
