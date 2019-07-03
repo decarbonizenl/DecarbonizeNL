@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Remote Attendance
-permalink: /Remote/
+permalink: /remote/
 ---
 
 The panel discussion from each session will be livestreamed via a platform to be determined. 
