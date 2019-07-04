@@ -21,6 +21,7 @@ For those unfamiliar with climate change, we recommend several resources below t
 * [The Intergovernmental Panel on Climate Change 1.5 degree C Special Report](https://www.ipcc.ch/sr15/) 
 * [Environment and Climate Change Canada's Changing Climate report](https://www.nrcan.gc.ca/sites/www.nrcan.gc.ca/files/energy/Climate-change/pdf/CCCR_FULLREPORT-EN-FINAL.pdf)
 * [Canada's Oceans Now: Atlantic Ecosystems 2018 report](http://dfo-mpo.gc.ca/oceans/publications/soto-rceo/2018/atlantic-ecosystems-ecosystemes-atlantiques/index-eng.html)
+* [Canada's Top Climate Risks](https://cca-reports.ca/reports/prioritizing-climate-change-risks/)
 
 ## Code of Conduct
 
