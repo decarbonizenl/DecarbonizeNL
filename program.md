@@ -23,6 +23,7 @@ Each session will be listed below, and we will add to this list as panelists are
 - [**Heavy industry**](/images/DNL - Heavy Industry.pdf)
 - [**Urban planning and buildings**](/images/DNL - Urban planning.pdf)
 - [**Just Transitions**](/images/DNL - Just transitions.pdf)
+- [**Climate Adaptation and Policy**](/images/DNL - Adaptation and Policy.pdf)
 
 # Deliverables from each session
 
