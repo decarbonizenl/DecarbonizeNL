@@ -24,6 +24,7 @@ Each session will be listed below, and we will add to this list as panelists are
 - [**Urban planning and buildings**](/images/DNL - Urban planning.pdf)
 - [**Just Transitions**](/images/DNL - Just transitions.pdf)
 - [**Climate Adaptation and Policy**](/images/DNL - Adaptation and Policy.pdf)
+- [**Electrifying Transportation**](/images/DNL - Electrifying Transportation.pdf)
 
 # Deliverables from each session
 
