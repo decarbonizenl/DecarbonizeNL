@@ -4,6 +4,12 @@ title: Program
 permalink: /program/
 ---
 
+# Full conference program now available
+
+Check out our [**FULL CONFERENCE PROGRAM**](/images/DNL - Conference Program.pdf) now available online!
+
+## Plenary Session
+
 On July 11, 2019, our day will begin with a keynote lecture delivered by [**Catherine Abreu, Executive Director of Executive Director of Climate Action Network – Réseau action climat (CAN-Rac) Canada**](/images/DNL - Plenary Speaker.pdf).
 
 Following the plenary talk, we will have concurrent sessions broken down by sector of the economy (specific subjects to be announced). Each session will have a panel with experts from the field. Following panel talks, the entire group, including delegates, will 
@@ -15,7 +21,7 @@ The day will end with an optional fieldtrip to a local renewable energy project.
 
 # Session list
 
-Each session will be listed below, and we will add to this list as panelists are finalized:
+There will be nine sessions total, with three running concurrently. [**See confernece program for details**](/images/DNL - Conference Program.pdf)
 
 - [**Fisheries and agriculture**](/images/DNL - Fisheries and Agriculture.pdf)
 - [**Urban transportation**](/images/DNL - Urban Transportation.pdf)
@@ -25,6 +31,7 @@ Each session will be listed below, and we will add to this list as panelists are
 - [**Just Transitions**](/images/DNL - Just transitions.pdf)
 - [**Climate Adaptation and Policy**](/images/DNL - Adaptation and Policy.pdf)
 - [**Electrifying Transportation**](/images/DNL - Electrifying Transportation.pdf)
+- [**Indigenous-Led Research**](/images/DNL - Indigenous-Led Research.pdf)
 
 # Deliverables from each session
 
