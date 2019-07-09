@@ -4,7 +4,7 @@ title: "Full Program now available"
 author: Conference Chairs
 ---
 
-We are very excited to announce that the [**FULL CONFERENCE PROGRAM**](/images/DNL - Conference Program.pdf) full conference program is now available! Please follow this link to check it out. We will not be providing paper copies of this program, so please refer to your electronic copy.
+We are very excited to announce that the [**FULL CONFERENCE PROGRAM**](/images/DNL - Conference Program.pdf) is now available! Please follow this link to check it out. We will not be providing paper copies of this program, so please refer to your electronic copy.
 
 All panels have now been announced as well. See the full program, or check out the [*program*](/program) page for details. 
 
