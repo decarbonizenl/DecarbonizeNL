@@ -4,8 +4,7 @@ title: "DNL is One Week Away!"
 author: Conference Chairs
 ---
 
-We are excited to be just over one week away from Decarbonize NL! In advance of the conference, we have a few things we'd like to communicate, and also we 
-have a request.
+We are excited to be just over one week away from Decarbonize NL! In advance of the conference, we have a few things we'd like to communicate, and also we have a request.
 
 1: If you are only planning on attending a single day of DNL, please let us know ASAP if you haven't done so already. We are determining final numbers for catering and don't want to overbuy or underbuy. 
 
