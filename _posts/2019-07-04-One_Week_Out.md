@@ -25,8 +25,6 @@ have a request.
 
 Keep an eye on the @DecarbonizeNL twitter account as we announce the remainder of our panels!
 
-PDFs of the panels are available for [**Urban transportation**](/images/DNL - Urban Transportation.pdf) and [**Off-grid electricity**](/images/DNL - Off-grid electricity.pdf)
-
 [**You can register for DecarbonizeNL online by clicking this link.**](https://mun.ungerboeck.com/prod/emc00/register.aspx?OrgCode=10&EvtID=5290&AppCode=REG&CC=119051503651)
 
 ![Schedule](/images/Schedule_Glance.PNG)
