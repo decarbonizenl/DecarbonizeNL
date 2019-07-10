@@ -8,6 +8,8 @@ permalink: /registration/
 
 [**Clicking this link** will take you to Memorial University's conference registration system.](https://mun.ungerboeck.com/prod/emc00/register.aspx?OrgCode=10&EvtID=5290&AppCode=REG&CC=119051503651)
 
+# DecarbonizeNL Registration is now closed! 
+
 ## Participation
 
 Before registering, please review our [*Participation*](/participation/) page for event rules, including the Code of Conduct. Decarbonize NL is a space to discuss **how** to decarbonize, not **whether** to do so.
@@ -18,7 +20,7 @@ Registration fees pay for facility rental, catering during the event, and other 
 
 Standard: $70. Low-income/travelling: $35.
 
-## Regular, from June 17, 2019 until start of event
+## Regular, from June 17
 
 Standard: $100. Low-income/travelling: $50.
 
