@@ -4,7 +4,21 @@ title: Remote Attendance
 permalink: /remote/
 ---
 
-The panel discussion from each session will be livestreamed via a platform to be determined. 
+# Live-streams
 
-Check this page closer to the conference start date and we will embed live streaming links below!
+## Day 1
+
+* Main Hall - https://youtu.be/NH2ain1sA1o
+* Room 2007A - https://youtu.be/fguIV4AM3UM
+* Room 2007B - https://youtu.be/G5fRgc_p7cQ
+
+## Day 2
+
+* Main Hall - https://youtu.be/L3dNMkwt28E
+* Room 2007A - https://youtu.be/AuzNBvNpeOg
+* Room 2007B - https://youtu.be/vXsa4_94uHI
+
+### Schedule
+
+![Schedule](/images/Schedule.png)
 
