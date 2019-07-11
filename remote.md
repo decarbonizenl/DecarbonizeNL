@@ -6,6 +6,8 @@ permalink: /remote/
 
 # Live-streams
 
+All times below are the Newfoundland time zone.
+
 ## Day 1
 
 * Main Hall - https://youtu.be/NH2ain1sA1o
