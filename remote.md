@@ -10,7 +10,7 @@ All times below are the Newfoundland time zone.
 
 ## Day 1
 
-* Main Hall - (https://youtu.be/NH2ain1sA1o)
+* Main Hall - [https://youtu.be/NH2ain1sA1o]
 * Room 2007A - (https://youtu.be/fguIV4AM3UM)
 * Room 2007B - (https://youtu.be/G5fRgc_p7cQ)
 
