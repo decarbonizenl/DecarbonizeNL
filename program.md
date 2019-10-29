@@ -21,14 +21,14 @@ The day will end with an optional fieldtrip to a local renewable energy project.
 
 # Session list
 
-There will be nine sessions total, with three running concurrently. [**See confernece program for details**](/images/DNL - Conference Program.pdf)
+There will be nine sessions total, with three running concurrently. [**See conference program for details**](/images/DNL - Conference Program.pdf)
 
 - [**Fisheries and agriculture**](/images/DNL - Fisheries and Agriculture.pdf)
 - [**Urban transportation**](/images/DNL - Urban Transportation.pdf)
 - [**Off-grid electricity**](/images/DNL - Off-grid electricity.pdf)
 - [**Heavy industry**](/images/DNL - Heavy Industry.pdf)
 - [**Urban planning and buildings**](/images/DNL - Urban planning.pdf)
-- [**Just Transitions**](/images/DNL - Just transitions.pdf)
+- [**Just Transitions**](/images/DNL - Just Transitions.pdf)
 - [**Climate Adaptation and Policy**](/images/DNL - Adaptation and Policy.pdf)
 - [**Electrifying Transportation**](/images/DNL - Electrifying Transportation.pdf)
 - [**Indigenous-Led Research**](/images/DNL - Indigenous-Led Research.pdf)
